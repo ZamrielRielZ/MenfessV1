@@ -14,7 +14,7 @@ pkg install yarn -y
 
 pkg install git -y
 
-git clone https://github.com/Lexxy24/MenfessV1
+git clone https://github.com/ZamrielRielZ/MenfessV1
 
 cd MenfessV1
 
