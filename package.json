@@ -1,5 +1,5 @@
 {
-  "name": "kina-botmd",
+  "name": "rielz-botmd",
   "version": "1.0.0",
   "description": "Simple whatsapp bot with multi device.",
   "main": "main.js",
@@ -10,7 +10,7 @@
     "type": "git",
     "url": "https://github.com/Lexxy24"
   },
-  "author": "Lexxy Official",
+  "author": "Rielz Official",
   "license": "ISC",
   "dependencies": {
     "@adiwajshing/baileys": "^4.4.0",
